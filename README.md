@@ -1,4 +1,7 @@
-## 我是bobo
+## Hi, I'm Bobo! 
+I'm an aspiring **Software Engineer** passionate about building automation tools.
+I use **Python** and **AI** to create efficient solutions for real-world problems.
+Currently diving deep into Data Structures & Algorithms
 
 <!--
 **bibobibobi/bibobibobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
